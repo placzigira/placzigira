@@ -1,7 +1,5 @@
 # Hi There 👋 I'm Placide ZIGIRA Backend Developer
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/KnYNcY75uV5lwBAwPZ/giphy.gif" width=50%"/>
-</div>                                                                                  
+                                                                                
 <div id="badges">
  <a href="https://www.linkedin.com/in/placide-zigira"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
