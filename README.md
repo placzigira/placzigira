@@ -1,4 +1,4 @@
-# Hi 👋 This Is Placide ZIGIRA 
+# Hi 👋 I'm Placide ZIGIRA 
                                                                                 
 
 
@@ -11,3 +11,4 @@
 - 📫 How to reach me: placzigira.vercel.app
 ```
 
+# g
