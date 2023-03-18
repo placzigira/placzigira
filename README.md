@@ -28,5 +28,5 @@
 - 📫 How to reach me: placzigira.vercel.app
 ```
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=placzigira&layout=compact)](https://github.com/placzigira/github-readme-stats)
 
